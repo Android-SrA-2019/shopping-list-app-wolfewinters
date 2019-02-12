@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Shopping List</string>
+    <string name="add_item">Add Item</string>
+    <string name="lemons">Lemons</string>
+    <string name="carrots">Carrots</string>
+    <string name="apples">Apples</string>
+    <string name="grapes">Grapes</string>
+    <string name="eggplant">Eggplant</string>
+    <string name="limes">Limes</string>
+    <string name="tomato">Tomato</string>
+    <string name="banana">Banana</string>
+    <string name="oranges">Oranges</string>
+    <string name="celery">Celery</string>
 </resources>
